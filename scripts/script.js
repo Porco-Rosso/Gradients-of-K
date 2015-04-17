@@ -226,9 +226,13 @@ function run() {
     var h1 = h - ColorRangeFrom0To360;
     if (h1 < 0) {h1+360;}
     else {h1=h1;}
+    
+    var l1 = l - LightnessRangeFrom0to100;
+    if (l1 < 0) {l1+360;}
+    else {l1=l1;}
        
  var color1 = 'hsl(' + h + ',' + s + '%,' + l + '%)'   ;
- var color2 = 'hsl(' + h1 + ',' + s + '%,' + l + '%)' ;
+ var color2 = 'hsl(' + h1 + ',' + s + '%,' + l1 + '%)' ;
  
     //inserting into html/css //    
     
