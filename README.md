@@ -3,7 +3,7 @@ Gradients-of-K
 
 Repository for development of the iphone LockHTML3 theme: "Gradients of K", a complement of the theme "Shades of K"
 
-[See an example in your webrowser](https://rawgit.com/Porco-Rosso/Shades-of-K/master/LockBackground.html)
+[See an example in your webrowser](https://rawgit.com/Porco-Rosso/Gradients-of-K/master/LockBackground.html)
 
 ---
 ![alt text](https://cloud.githubusercontent.com/assets/7024527/5133010/bdcfbf3c-7101-11e4-834a-bbec149028e7.png "cool eh?")
